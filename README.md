@@ -60,6 +60,7 @@
 ## ⭐️ Deploy
 
 - https://react-rick-morty-pi.vercel.app/ `React.js`
+- https://evgeniy-popov-jsx.github.io/Keksagram/ `JS`
 ---
 
 ## P.S.
