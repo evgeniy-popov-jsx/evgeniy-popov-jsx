@@ -34,6 +34,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
 
+---
+
 ## ✅ Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=evgeniy-popov-jsx&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
@@ -42,14 +44,19 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniy-popov-jsx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 ## ⭐️ Actual Repo
 
 - https://github.com/evgeniy-popov-jsx/React-Rick-Morty `React.js`
 - https://github.com/htmlacademy-javascript/2046293-kekstagram-25 `JavaScript`
+- 
+---
 
 ## ⭐️ Deploy
 
 - https://react-rick-morty-pi.vercel.app/ `React.js`
+---
 
 ## P.S.
 
