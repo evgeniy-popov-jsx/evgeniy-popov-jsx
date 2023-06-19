@@ -22,7 +22,7 @@
 ## 🤵 Info:
 
 - 🔥 Frontend Developer
-- 🎧 Сarpenter
+- 🎧 Dubbing actor
 
 ---
 
