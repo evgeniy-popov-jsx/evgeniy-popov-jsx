@@ -54,7 +54,6 @@
 
 - https://github.com/evgeniy-popov-jsx/React-Rick-Morty `React.js`
 - https://github.com/htmlacademy-javascript/2046293-kekstagram-25 `JavaScript`
-- 
 ---
 
 ## ⭐️ Deploy
