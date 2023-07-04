@@ -52,17 +52,16 @@
 
 ## ⭐️ Actual Repo
 
-- https://github.com/evgeniy-popov-jsx/React-Rick-Morty `React.js`
-- https://github.com/htmlacademy-javascript/2046293-kekstagram-25 `JavaScript`
-- https://github.com/evgeniy-popov-jsx/simple-landing `вёрстка` <a href="https://simple-landing-pi.vercel.app/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/chrome/chrome-original.svg" alt="HabrBadge" width="60" height="60"/>
-    </a> 
+- https://github.com/evgeniy-popov-jsx/React-Rick-Morty `React.js` `Rick&Morty`
+- https://github.com/htmlacademy-javascript/2046293-kekstagram-25 `JavaScript` `Keksogram`
+- https://github.com/evgeniy-popov-jsx/simple-landing `вёрстка` `simple`
 ---
 
 ## ⭐️ Deploy
 
-- https://react-rick-morty-pi.vercel.app/ `React.js`
-- https://evgeniy-popov-jsx.github.io/Keksagram/ `JS`
+- https://react-rick-morty-pi.vercel.app/ `Rick&Morty`
+- https://evgeniy-popov-jsx.github.io/Keksagram/ `Keksogram`
+- https://simple-landing-pi.vercel.app/ `simple`
 ---
 
 ## P.S.
