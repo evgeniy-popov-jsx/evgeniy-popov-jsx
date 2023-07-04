@@ -54,6 +54,7 @@
 
 - https://github.com/evgeniy-popov-jsx/React-Rick-Morty `React.js`
 - https://github.com/htmlacademy-javascript/2046293-kekstagram-25 `JavaScript`
+- https://github.com/evgeniy-popov-jsx/simple-landing `вёрстка` <a href="https://simple-landing-pi.vercel.app/">`Потыкать`</a>
 ---
 
 ## ⭐️ Deploy
