@@ -55,7 +55,7 @@
 - https://github.com/evgeniy-popov-jsx/React-Rick-Morty `React.js`
 - https://github.com/htmlacademy-javascript/2046293-kekstagram-25 `JavaScript`
 - https://github.com/evgeniy-popov-jsx/simple-landing `вёрстка` <a href="[https://freelance.habr.com/freelancers/eto_mi_studio](https://simple-landing-pi.vercel.app/)">
-        <img src="[https://img.shields.io/badge/Freelance-red?style=for-the-badge&logo=habr&logoColor=white](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/chrome/chrome-original.svg)" alt="HabrBadge" width="60" height="60"/>
+        <img src="[https://img.shields.io/badge/Freelance-red?style=for-the-badge&logo=habr&logoColor=white](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/chrome/chrome-original.svg" alt="HabrBadge" width="60" height="60"/>
     </a> 
 ---
 
