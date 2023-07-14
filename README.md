@@ -54,7 +54,7 @@
 
 - https://github.com/evgeniy-popov-jsx/React-Rick-Morty `React Redux` <a href="https://react-rick-morty-pi.vercel.app/">`deploy`</a>
 - https://github.com/htmlacademy-javascript/2046293-kekstagram-25 `JavaScript` <a href="https://evgeniy-popov-jsx.github.io/Keksagram/">`deploy`</a>
-- https://github.com/evgeniy-popov-jsx/simple-landing `HTML CSS адаптив mobile` <a href="https://simple-landing-pi.vercel.app/ ">`deploy`</a>
+- https://github.com/evgeniy-popov-jsx/simple.landing `HTML CSS адаптив mobile` <a href="https://simple-landing-pi.vercel.app/ ">`deploy`</a>
 ---
 
 ## P.S.
