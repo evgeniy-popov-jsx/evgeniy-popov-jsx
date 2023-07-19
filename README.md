@@ -5,7 +5,7 @@
     <a href="https://vk.com/dfsgs21">
         <img src="https://img.shields.io/badge/vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkonakte Badge"/>
     </a>
-    <a href="https://freelance.habr.com/freelancers/eto_mi_studio">
+    <a href="https://freelance.habr.com/freelancers/evgeniy_popov_jsx">
         <img src="https://img.shields.io/badge/Freelance-red?style=for-the-badge&logo=habr&logoColor=white" alt="HabrBadge"/>
     </a>
     <a href="https://t.me/jsevxcss">
