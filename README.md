@@ -22,7 +22,6 @@
 ## 🤵 Info:
 
 - 🔥 Frontend Developer
-- 🎧 Dubbing actor
 
 ---
 
