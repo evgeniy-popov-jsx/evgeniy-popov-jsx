@@ -38,22 +38,9 @@
 
 ## ✅ Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=evgeniy-popov-jsx&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
 [![codewars](https://www.codewars.com/users/evgeniy-popov-jsx/badges/large)](https://www.codewars.com/users/evgeniy-popov-jsx)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniy-popov-jsx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## ⭐️ Actual Repo
-
-- https://github.com/evgeniy-popov-jsx/React-Rick-Morty `React Redux` <a href="https://react-rick-morty-pi.vercel.app/">`deploy`</a>
-- https://github.com/evgeniy-popov-jsx/chatbot `JavaScript адаптив` <a href="https://chatbot-weld-iota.vercel.app/">`deploy`</a>
-- https://github.com/htmlacademy-javascript/2046293-kekstagram-25 `JavaScript` <a href="https://evgeniy-popov-jsx.github.io/Keksagram/">`deploy`</a>
-- https://github.com/evgeniy-popov-jsx/simple.landing `HTML CSS адаптив mobile` <a href="https://simple-landing-pi.vercel.app/ ">`deploy`</a>
----
-
-## P.S.
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
