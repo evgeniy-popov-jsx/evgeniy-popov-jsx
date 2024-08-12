@@ -40,6 +40,8 @@
 
 [![codewars](https://www.codewars.com/users/evgeniy-popov-jsx/badges/large)](https://www.codewars.com/users/evgeniy-popov-jsx)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/evgeniy-popov-jsx)](https://leetcode.com/evgeniy-popov-jsx)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniy-popov-jsx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
